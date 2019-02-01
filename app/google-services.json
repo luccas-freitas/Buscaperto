@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "353022881322",
+    "firebase_url": "https://buscaperto-beta.firebaseio.com",
+    "project_id": "buscaperto-beta",
+    "storage_bucket": "buscaperto-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353022881322:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353022881322-7ttaobmmr5e96raqlmose3cedsmltjvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.auth",
+            "certificate_hash": "0517e43171923b2c61b591e01c52274fddbf8329"
+          }
+        },
+        {
+          "client_id": "353022881322-gssnf34hdtkurr2m4cjeqfd8jv7gnapk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClKhn7nvuw14ogvt7nqrpllS3pmeWhECk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353022881322-gssnf34hdtkurr2m4cjeqfd8jv7gnapk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

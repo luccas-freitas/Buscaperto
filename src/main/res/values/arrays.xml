@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="coordinates">
+        <!-- IPOLON IFPR -->
+        <item>-23.3176217</item> <!-- X -->
+        <item>-51.1719466</item> <!-- Y -->
+        <item>18.62z</item>       <!-- Z -->
+
+        <!-- DACHÔ SUSHI -->
+        <item>-23.3175012</item> <!-- X -->
+        <item>-51.1673696</item> <!-- Y -->
+        <item>17.37z</item>       <!-- Z -->
+
+        <!-- FOLKS -->
+        <item>-23.3225635</item> <!-- X -->
+        <item>-51.1764925</item> <!-- Y -->
+        <item>17.87z</item>       <!-- Z -->
+
+        <!-- ALTATECH -->
+        <item>-23.3145194</item> <!-- X -->
+        <item>-51.1587509</item> <!-- Y -->
+        <item>18z</item>       <!-- Z -->
+
+        <!-- VALE VERDE -->
+        <item>-23.3106423</item> <!-- X -->
+        <item>-51.1638096</item> <!-- Y -->
+        <item>18z</item>       <!-- Z -->
+
+        <!-- VITROLA BAR -->
+        <item>-23.3305999</item> <!-- X -->
+        <item>-51.1679232</item> <!-- Y -->
+        <item>18z</item>       <!-- Z -->
+
+        <!-- MARCO GEODÉSIO -->
+        <item>-23.3216769</item> <!-- X -->
+        <item>-51.1629907</item> <!-- Y -->
+        <item>18.17z</item>       <!-- Z -->
+
+        <!-- BRISTOL HOTÉL -->
+        <item>-23.3156842</item> <!-- X -->
+        <item>-51.1598817</item> <!-- Y -->
+        <item>18.38z</item>       <!-- Z -->
+
+        <!-- LOJAS HAVAN -->
+        <item>-23.3082451</item> <!-- X -->
+        <item>-51.1585484</item> <!-- Y -->
+        <item>18.04z</item>       <!-- Z -->
+
+        <!-- 21 COCKTAIL BAR -->
+        <item>-23.3312054</item> <!-- X -->
+        <item>-51.1778045</item> <!-- Y -->
+        <item>18.04z</item>       <!-- Z -->
+
+        <!-- FOREVER 21 -->
+        <item>-23.342653</item> <!-- X -->
+        <item>-51.1844491</item> <!-- Y -->
+        <item>17.88z</item>       <!-- Z -->
+
+        <!-- SUPER MUFFATO - MADRE LEONIA -->
+        <item>-23.3348623</item> <!-- X -->
+        <item>-51.1744952</item> <!-- Y -->
+        <item>18.08z</item>       <!-- Z -->
+
+        <!-- VICENTE RIJO -->
+        <item>-23.3199889</item> <!-- X -->
+        <item>-51.1655989</item> <!-- Y -->
+        <item>18z</item>       <!-- Z -->
+
+        <!-- WALL MART -->
+        <item>-23.3120107</item> <!-- X -->
+        <item>-51.1485225</item> <!-- Y -->
+        <item>18.13z</item>       <!-- Z -->
+
+        <!-- ROYAL PLAZA -->
+        <item>-23.310882</item> <!-- X -->
+        <item>-51.1573026</item> <!-- Y -->
+        <item>17.38z</item>       <!-- Z -->
+
+        <!-- SANTOÍCHE -->
+        <item>-23.3073025</item> <!-- X -->
+        <item>-51.1701696</item> <!-- Y -->
+        <item>18.13z</item>       <!-- Z -->
+
+        <!-- SUBWAY -->
+        <item>-23.3119052</item> <!-- X -->
+        <item>-51.1613912</item> <!-- Y -->
+        <item>18.13z</item>       <!-- Z -->
+
+        <!-- IEEL -->
+        <item>-23.3178813</item> <!-- X -->
+        <item>-51.1533157</item> <!-- Y -->
+        <item>18.13z</item>       <!-- Z -->
+
+        <!-- MAXI -->
+        <item>-23.3270011</item> <!-- X -->
+        <item>-51.1544299</item> <!-- Y -->
+        <item>18.13z</item>       <!-- Z -->
+
+        <!-- ARNALDO -->
+        <item>-23.3050712</item> <!-- X -->
+        <item>-51.1779125</item> <!-- Y -->
+        <item>18.19z</item>       <!-- Z -->
+
+    </string-array>
+
+    <string-array name="place_desc">
+        <item>R. Alagoas, 1887 - Centro, Londrina - PR, 86010-520</item>
+        <item>R. Goiás, 1731 - Centro, Londrina - PR, 86020-410</item>
+        <item>Av. Maringá, 2247 - Vitória, Londrina - PR, 86060-000</item>
+        <item>R. Sen. Souza Naves, 282 - 901 - Centro, Londrina - PR, 86010-160</item>
+        <item>Av. Paraná, 71 - Centro, Londrina - PR, 86010-390</item>
+        <item>Av. Bandeirantes, 55 - Vila Ipiranga, Londrina - PR, 86010-020</item>
+        <item>R. Goiás, 877 - Centro, Londrina - PR, 86010-410</item>
+        <item>R. Benjamin Constant, 777 - 01 - Centro, Londrina - PR, 86020-320</item>
+        <item>Av. Ayrton Senna da Silva, 677 - Gleba Fazenda Palhano, Londrina - PR, 86010-010</item>
+        <item>Rod. Celso Garcia Cid, 5600 - Gleba, Londrina - PR, 86050-901</item>
+        <item>Av. Me. Leônia Milito, 1175 - Jardim Bela Suíça, Londrina - PR, 86050-270</item>
+        <item>Av. Juscelino Kubitscheck, 2372 - Boa Vista, Londrina - PR, 86020-000</item>
+        <item>Av. Theodoro Victorelli, 150 - Carlota, Londrina - PR, 86027-750</item>
+        <item>R. Mato Grosso, 310 - Centro, Londrina - PR, 86010-180</item>
+        <item>R. Fernando de Noronha, 790 - Centro, Londrina - PR, 86020-300</item>
+        <item>Av. Maringá, 73-B - Vitória, Londrina - PR, 86060-000</item>
+        <item>R. Brasil, 1047 - Centro, Londrina - PR, 86010-200</item>
+        <item>Av. Duque de Caxias, 1589 - Petrópolis, Londrina - PR, 86015-000</item>
+        <item>Av. Maringá, 430 - Vitoria, Londrina - PR, 86060-000</item>
+    </string-array>
+
+    <array name="places_picture">
+        <item>@drawable/girafa</item>
+        <item>@drawable/amazon</item>
+        <item>@drawable/americanas</item>
+        <item>@drawable/submarino</item>
+        <item>@drawable/buscape</item>
+        <item>@drawable/walmart</item>
+        <item>@drawable/shoptime</item>
+        <item>@drawable/mobly</item>
+        <item>@drawable/netshoes</item>
+        <item>@drawable/rihappy</item>
+        <item>@drawable/annapegova</item>
+        <item>@drawable/abouthome</item>
+        <item>@drawable/sieno</item>
+        <item>@drawable/zattini</item>
+        <item>@drawable/modait</item>
+        <item>@drawable/multiar</item>
+        <item>@drawable/pneustore</item>
+        <item>@drawable/pbkids</item>
+    </array>
+</resources>

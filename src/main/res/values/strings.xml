@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Buscaperto</string>
+    <string name="search_hint">Buscar Produtos</string>
+    <string name="sign_in">Cadastre-se</string>
+    <string name="loading">Carregando…</string>
+
+    <!-- STRINGS FOR TEST -->
+    <string name="item_title">Palais Garnier</string>
+    <string name="item_desc">The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+    </string>
+    <string name="tab_favorite">Favoritos</string>
+    <string name="tab_featured">Destaques</string>
+    <string name="tab_affliates">Afiliados</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="description">Descrição</string>
+    <string name="location">Estabelecimento</string>
+
+    <string name="product_price">Preço</string>
+    <string name="address">Endereço</string>
+    <string name="related_products">Produtos Relacionados</string>
+    <string name="view_offer">Ver Ofertas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="unavailable">Indisponível</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="permission_rationale">Please grant location permission to start the service</string>
+    <string name="permission_denied_explanation">You have not granted location permission. So the service cannot be started.</string>
+    <string name="settings">settings</string>
+    <string name="title_alert_no_intenet">No internet</string>
+    <string name="msg_alert_no_internet">Please make sure that you have active internet connection.</string>
+    <string name="no_google_playservice_available">No Google Playservice found. Please install it.</string>
+    <string name="msg_location_service_not_started">Location Tracking Not Started</string>
+    <string name="msg_location_service_started">Location Tracking Started</string>
+    <string name="btn_label_refresh">Refresh</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="remember">Lembra dessa oferta?</string>
+    <string name="edit">Editar Perfil</string>
+    <string name="favorite">Favoritos</string>
+    <string name="max_distance">Distância Máxima</string>
+    <string name="support">Fale Conosco</string>
+    <string name="abount">Sobre</string>
+    <string name="options">Opções</string>
+    <string name="terms">Termos de Uso</string>
+    <string name="logout">Sair</string>
+</resources>
